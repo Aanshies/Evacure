@@ -71,7 +71,7 @@ JavaScript: For any client-side interactive elements.
 
 ```Bash
 
-git clone https://github.com/yourusername/evacure.git
+git clone https://github.com/Aanshies/Evacure.git
 cd evacure
 ```
 
