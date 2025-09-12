@@ -33,7 +33,8 @@ An award-winning platform designed to simplify and improve access to women's hea
 
 ## 📸 Screenshots
 The main banner highlighting the project's focus on women's health.
-![Evacure Screenshot 1](<img width="1895" height="839" alt="Image" src="https://github.com/user-attachments/assets/88169721-ecd5-4df9-9590-59e5703a1030" />)
+[![Evacure Screenshot](<img width="1895" height="839" alt="Image" src="https://github.com/user-attachments/assets/88169721-ecd5-4df9-9590-59e5703a1030" />)
+
 
 A selection of the different health topics available for consultation.
 
