@@ -40,12 +40,6 @@ A selection of the different health topics available for consultation.
 
 ---
 
-## 🎥 Video Demonstration
-🔗 ![Watch a video of Evacure in action!](https://drive.google.com/drive/u/1/folders/19WwRAL7WWKHgsDdU3A2F7w_VMZ0NoIgX)
-
----
-
-
 ## 🚀 Tech Stack
 
 PHP: For server-side logic and database interaction.
